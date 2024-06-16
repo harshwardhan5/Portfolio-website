@@ -60,7 +60,7 @@ const AboutSection = () => {
                     About Me
                 </h2>
                 <p className='text-base lg:text-lg'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget ligula in nunc vestibulum tincidunt. Donec euismod, nisl non mattis ultrices, nunc ligula aliquet purus, nec varius nunc nunc sed libero. Nullam eget ligula in nunc vestibulum tincidunt. Donec euismod, nisl non mattis ultrices, nunc ligula aliquet purus, nec varius nunc nunc sed libero.
+                Currently a 4th-year Information Technology major at BIT Mesra, I have interned at IIT Kharagpur and Coding Ninjas. As Vice President of the Society for Data Science, I actively explore new technologies and frameworks. I'm also a national-level quizzer, having reached the National finals of the CBSE History TV18 Heritage India Quiz.
                 </p>
                 <div className='flex flex-row justify-start mt-8'>
                     <TabButton 

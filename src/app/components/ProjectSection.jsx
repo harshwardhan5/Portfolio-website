@@ -29,23 +29,23 @@ const projectsData = [
       description: "Developed a project for traffic density estimation using the YOLOv8 object detection model to analyze vehicle numbers in traffic videos.",
       image: "/images/project3.png",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/harshwardhan5/Traffic-Density-Estimation-Project-",
+      previewUrl: "https://github.com/harshwardhan5/Traffic-Density-Estimation-Project-",
     },
     {
       id: 4,
       title: "Food Ordering Application",
-      description: "Project 4 description",
-      image: "/images/projects/4.png",
+      description: "Sample Mobile App Coming soon...",
+      image: "/images/project4.png",
       tag: ["All", "Mobile"],
       gitUrl: "/",
       previewUrl: "/",
     },
     {
       id: 5,
-      title: "Full-stack Roadmap",
-      description: "Project 5 description",
-      image: "/images/projects/6.png",
+      title: "Google Gemini Clone ",
+      description: "Developed a React-based application replicating the user interface of Google Gemini. The app interacts with the Google Gemini API to fetch and display responses.",
+      image: "/images/project5.png",
       tag: ["All", "Web"],
       gitUrl: "/",
       previewUrl: "/",
@@ -70,7 +70,7 @@ const ProjectSection = () => {
     }
 
   return (
-    <section >
+    <section id = "projects" >
         <h2 className='text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12'>
             My Projects
         </h2>

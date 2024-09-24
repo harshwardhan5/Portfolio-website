@@ -47,8 +47,8 @@ const projectsData = [
       description: "Developed a React-based application replicating the user interface of Google Gemini. The app interacts with the Google Gemini API to fetch and display responses.",
       image: "/images/project5.png",
       tag: ["All", "Web"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/harshwardhan5/gemini0-clone",
+      previewUrl: "https://gemini0-clone-25bshnf4h-kumar-harshwardhans-projects.vercel.app/",
     },
   ];
 

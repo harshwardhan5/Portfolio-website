@@ -23,8 +23,8 @@ const TAB_DATA= [
         id : 'Education',
         content : (
             <ul className='list-disc pl-2'>
+                 <li>Birla Institute of Technology, Mesra</li>
                 <li>Sarala Birla Public School (PCM + CS)</li>
-                <li>Birla Institute of Technology, Mesra</li>
             </ul>
         )
     },

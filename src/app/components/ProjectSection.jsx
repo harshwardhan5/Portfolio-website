@@ -50,6 +50,24 @@ const projectsData = [
       gitUrl: "https://github.com/harshwardhan5/gemini0-clone",
       previewUrl: "https://gemini0-clone-25bshnf4h-kumar-harshwardhans-projects.vercel.app/",
     },
+    {
+      id: 6,
+      title: "We Watch",
+      description: "WeWatch is a real-time co-watching platform built with SvelteKit, using Socket.io for video sync, VimeJS for playback, and Prisma ORM with PostgreSQL for robust backend data management. It lets users create rooms to stream content together, perfectly in sync.",
+      image: "/images/project6.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/harshwardhan5/weWatch",
+      previewUrl: "https://github.com/harshwardhan5/weWatch",
+    },
+     {
+      id: 7,
+      title: "ByteUrBits",
+      description: "Reduce Your Bits is a React.js web app that visualizes Huffman encoding using React Mermaid, showcasing how data can be compressed efficiently through optimal character encoding.",
+      image: "/images/project7.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/harshwardhan5/ByteUrBits",
+      previewUrl: "https://byte-ur-bits.vercel.app/",
+    },
   ];
 
 
